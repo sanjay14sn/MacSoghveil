@@ -76,7 +76,7 @@ function App() {
             {/* Hero Section */}
             <section className="relative h-[85vh] w-full bg-gray-100 flex items-center justify-center overflow-hidden">
               <div className="absolute inset-0 z-0">
-                <div className="w-full h-full bg-[url('https://res.cloudinary.com/dq6gr5zjc/image/upload/v1776339620/26a7925b-6277-4c9f-8de2-5a0c17a4df42_hhmtsc.png)] bg-cover bg-top" />
+                <div className="w-full h-full bg-[url('https://res.cloudinary.com/dq6gr5zjc/image/upload/v1776339620/26a7925b-6277-4c9f-8de2-5a0c17a4df42_hhmtsc.png')] bg-cover bg-top" />
                 <div className="absolute inset-0 bg-black/20" />
               </div>
               <div className="relative z-10 text-center text-white px-4">
